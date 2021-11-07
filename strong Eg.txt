@@ -1,0 +1,6 @@
+>>> num = 123
+>>> text = "text"
+>>> type(num)
+>>> <class 'int'>
+>>> type(text)
+>>> <class 'str'>
