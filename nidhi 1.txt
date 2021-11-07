@@ -1,0 +1,7 @@
+A Loosely typed language is a language that can create variables of different types easily.
+ It refers to those programming scripts that do not require defining a variable type.JavaScript is considered a “loosely typed”
+
+
+A strongly-typed programming language is one in which each type of data (such as integer, character, hexadecimal, packed decimal, and so forth)
+ is predefined as part of the programming language and all constants or variables defined for a given program must be described with one
+ of the data types.Smalltalk, Perl, Ruby, Python, and Self are all "strongly typed" 
