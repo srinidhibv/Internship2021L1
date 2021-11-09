@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Regular Expressions</h2>
+
+<p>find the position where a newline character is found:.</p>
+
+<p id="demo"></p>
+
+<script>
+let text = "Visit W3Schools.\nLearn JavaScript."; 
+let pattern = /\n/;
+let result = text.search(pattern);
+
+document.getElementById("demo").innerHTML = result;
+</script>
+
+</body>
+</html>
